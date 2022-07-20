@@ -12,7 +12,7 @@ Pintar tablero
         
          Respuesta: No es posible pintar el tablero siguiendo las condiciones, dado
         que al menos tendria que repetirse una vez las mismas cantidades de casillas
-        rojas en las columna. Lo mismo sucede con con las filas.
+        rojas en las columna. Lo mismo sucede con las filas.
         
          ¿Y si en vez de un tablero de ajedrez normal de 8x8 fuese un tablero 
         de ajedrez gigante de 1000x1000?
